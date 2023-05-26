@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Blood FX/1/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Blood FX/1/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Blood FX/1/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Blood FX/1/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Blood FX/1/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Blood FX/1/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Blood FX/1/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/bullet/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/bullet/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/bullet/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/bullet/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/10.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/8.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/AttackA/9.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/die/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/die/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/die/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/die/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/die/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/die/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/die/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/die/8.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/Move/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/Move/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/Move/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/Move/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/Move/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/Move/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/Move/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyA/Move/8.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/10.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/11.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/8.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/AttackA/9.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/die/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/die/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/die/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/die/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/die/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/idle/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/idle/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/idle/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/idle/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/idle/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/idle/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/idle/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/Move/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/Move/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/Move/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/Move/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/Move/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/Move/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/Move/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/EnemyB/Move/8.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/kekw.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/dash/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/dash/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/dash/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/dash/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/dash/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/dash/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/die/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/die/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/die/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/die/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/die/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/die/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/die/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/idle/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/idle/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/idle/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/idle/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/run/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/run/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/run/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/run/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/run/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/run/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/run/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/run/8.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/slam/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/slam/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/slam/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/slam/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/slam/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/spin/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/spin/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/spin/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/spin/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/spin/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/spin/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashA/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashA/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashA/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashA/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashA/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashA/6.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashA/7.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashB/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashB/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashB/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashB/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/Player/SplashB/5.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/sounds/AxeSmash.wav</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/sounds/blade.wav</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/sounds/blade1.wav</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/sounds/blast.wav</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/sounds/BloodSplash.wav</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/The Darkest Nights.mp3</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/TileSet/1.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/TileSet/2.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/TileSet/3.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/TileSet/4.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/UI/controlls.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/UI/Health Bar/hpbar_bg.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/UI/Health Bar/hpbar.png</File>
+    <File>C:/Users/slugg/source/repos/TestGame/TestGame/Content/UI/Health Bar/killsbar.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Blood FX/1/1</File>
+    <File>Blood FX/1/2</File>
+    <File>Blood FX/1/3</File>
+    <File>Blood FX/1/4</File>
+    <File>Blood FX/1/5</File>
+    <File>Blood FX/1/6</File>
+    <File>Blood FX/1/7</File>
+    <File>bullet/1</File>
+    <File>bullet/2</File>
+    <File>bullet/3</File>
+    <File>bullet/4</File>
+    <File>EnemyA/AttackA/1</File>
+    <File>EnemyA/AttackA/10</File>
+    <File>EnemyA/AttackA/2</File>
+    <File>EnemyA/AttackA/3</File>
+    <File>EnemyA/AttackA/4</File>
+    <File>EnemyA/AttackA/5</File>
+    <File>EnemyA/AttackA/6</File>
+    <File>EnemyA/AttackA/7</File>
+    <File>EnemyA/AttackA/8</File>
+    <File>EnemyA/AttackA/9</File>
+    <File>EnemyA/die/1</File>
+    <File>EnemyA/die/2</File>
+    <File>EnemyA/die/3</File>
+    <File>EnemyA/die/4</File>
+    <File>EnemyA/die/5</File>
+    <File>EnemyA/die/6</File>
+    <File>EnemyA/die/7</File>
+    <File>EnemyA/die/8</File>
+    <File>EnemyA/Move/1</File>
+    <File>EnemyA/Move/2</File>
+    <File>EnemyA/Move/3</File>
+    <File>EnemyA/Move/4</File>
+    <File>EnemyA/Move/5</File>
+    <File>EnemyA/Move/6</File>
+    <File>EnemyA/Move/7</File>
+    <File>EnemyA/Move/8</File>
+    <File>EnemyB/AttackA/1</File>
+    <File>EnemyB/AttackA/10</File>
+    <File>EnemyB/AttackA/11</File>
+    <File>EnemyB/AttackA/2</File>
+    <File>EnemyB/AttackA/3</File>
+    <File>EnemyB/AttackA/4</File>
+    <File>EnemyB/AttackA/5</File>
+    <File>EnemyB/AttackA/6</File>
+    <File>EnemyB/AttackA/7</File>
+    <File>EnemyB/AttackA/8</File>
+    <File>EnemyB/AttackA/9</File>
+    <File>EnemyB/die/1</File>
+    <File>EnemyB/die/2</File>
+    <File>EnemyB/die/3</File>
+    <File>EnemyB/die/4</File>
+    <File>EnemyB/die/5</File>
+    <File>EnemyB/idle/1</File>
+    <File>EnemyB/idle/2</File>
+    <File>EnemyB/idle/3</File>
+    <File>EnemyB/idle/4</File>
+    <File>EnemyB/idle/5</File>
+    <File>EnemyB/idle/6</File>
+    <File>EnemyB/idle/7</File>
+    <File>EnemyB/Move/1</File>
+    <File>EnemyB/Move/2</File>
+    <File>EnemyB/Move/3</File>
+    <File>EnemyB/Move/4</File>
+    <File>EnemyB/Move/5</File>
+    <File>EnemyB/Move/6</File>
+    <File>EnemyB/Move/7</File>
+    <File>EnemyB/Move/8</File>
+    <File>kekw</File>
+    <File>Player/dash/1</File>
+    <File>Player/dash/2</File>
+    <File>Player/dash/3</File>
+    <File>Player/dash/4</File>
+    <File>Player/dash/5</File>
+    <File>Player/dash/6</File>
+    <File>Player/die/1</File>
+    <File>Player/die/2</File>
+    <File>Player/die/3</File>
+    <File>Player/die/4</File>
+    <File>Player/die/5</File>
+    <File>Player/die/6</File>
+    <File>Player/die/7</File>
+    <File>Player/idle/1</File>
+    <File>Player/idle/2</File>
+    <File>Player/idle/3</File>
+    <File>Player/idle/4</File>
+    <File>Player/run/1</File>
+    <File>Player/run/2</File>
+    <File>Player/run/3</File>
+    <File>Player/run/4</File>
+    <File>Player/run/5</File>
+    <File>Player/run/6</File>
+    <File>Player/run/7</File>
+    <File>Player/run/8</File>
+    <File>Player/slam/1</File>
+    <File>Player/slam/2</File>
+    <File>Player/slam/3</File>
+    <File>Player/slam/4</File>
+    <File>Player/slam/5</File>
+    <File>Player/spin/1</File>
+    <File>Player/spin/2</File>
+    <File>Player/spin/3</File>
+    <File>Player/spin/4</File>
+    <File>Player/spin/5</File>
+    <File>Player/spin/6</File>
+    <File>Player/SplashA/1</File>
+    <File>Player/SplashA/2</File>
+    <File>Player/SplashA/3</File>
+    <File>Player/SplashA/4</File>
+    <File>Player/SplashA/5</File>
+    <File>Player/SplashA/6</File>
+    <File>Player/SplashA/7</File>
+    <File>Player/SplashB/1</File>
+    <File>Player/SplashB/2</File>
+    <File>Player/SplashB/3</File>
+    <File>Player/SplashB/4</File>
+    <File>Player/SplashB/5</File>
+    <File>sounds/AxeSmash</File>
+    <File>sounds/blade</File>
+    <File>sounds/blade1</File>
+    <File>sounds/blast</File>
+    <File>sounds/BloodSplash</File>
+    <File>The Darkest Nights</File>
+    <File>TileSet/1</File>
+    <File>TileSet/2</File>
+    <File>TileSet/3</File>
+    <File>TileSet/4</File>
+    <File>UI/controlls</File>
+    <File>UI/Health Bar/hpBar_bg</File>
+    <File>UI/Health Bar/hpBar</File>
+    <File>UI/Health Bar/killsbar</File>
+  </DestFiles>
+</SourceFileCollection>
